@@ -1,7 +1,31 @@
-## PROJEKT Python
+#  **Anticipating countires targeted by GreenPeace** 🌳
 
-# Opis plików
-* [EU_World_Electricity_Production.ipynb](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/Projekt%20Python%20GreenPeace/EU_World_Electricity_Production.ipynb) - Analiza produkcji energii z OZE dla Europy, Chin, USA, Rosji i Indii. 
-* [Projekt_Greenpeace.ipynb](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/Projekt%20Python%20GreenPeace/Projekt_Greenpeace.ipynb) - brudnopis to testowania i spisywania rzeczy. (zostawiłam jakby był potrzebny)
-* [sum_eco_energy_data.csv](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/Projekt%20Python%20GreenPeace/sum_eco_energy_data.csv) - pierwsza wersja tabeli produkcji energii z OZE dla wszystkich krajów i roku 2014.
-* [sum_eco_energy_data_eu_world.csv](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/Projekt%20Python%20GreenPeace/sum_eco_energy_data_eu_world.csv) - tabela produkcji energii z OZE dla Europy, Chin, USA, Rosji, Indii zsumowana dla wszystkich lat. W pliku EU_World_Electricity_Production.ipynb możliwe jest edytowanie tej tabeli np. dla wybranych roczników.
+Welcome to the GreenPeace Targeted Countries Anticipation project! This Python-based EDA aims to predict countries that are likely to be targeted by Greenpeace based on international energy statistics. By analyzing carbon dioxide (CO2) emissions and renewable energy production in European countries, as well as the USA, China, Russia, and India, this project provides insights into regions that may benefit from Greenpeace initiatives.
+
+🌱 My contribtion consisted of analysing the amout and type of renewable energy produced in given countires. 🌱
+
+## **Project Overview:**
+
+- 📊 **Datasets**: [International Energy Statistics](https://www.kaggle.com/datasets/unitednations/international-energy-statstics?resource=download&select=all_energy_statistics.csv) + [Energy Statistics Yearbook - 2015](https://unstats.un.org/unsd/energystats/pubs/yearbook/documents/2015eyb.pdf) used to understand provided data.
+- 🏆 **Main Goal**: Analysis of countries in terms of CO2 emission and energy production from renewable sources. 
+- 💻 **Technologies used**: Python, Scikit-Learn, Pandas, MatPlotLib, Seaborn.
+
+
+## **How to use:**
+   
+1. Clone this repository to your local machine.
+
+       git clone git@github.com:PoiPon00/bootcamp-projects.git
+   
+2. Navigate to path "Projekt Python GreenPeace" from where you cloned the repository.
+   
+3. Open .ipynb file to view Jupyter Notebook contaning renewable energy analysis.
+    
+
+## **Contact**
+📧 Email: piwargabriela@gmail.com <br>
+🔗 LinkedIn: [LinkedIn/Gabriela-Piwar](https://www.linkedin.com/in/gabriela-piwar)
+
+Other Team Members GitHub Profiles: <br> [Szymon Cyranowicz](https://github.com/szymoncyranowicz)<br>[Łukasz Sielicki](https://github.com/2023SIL)
+
+Thanks for exploring the Medical Insurance Cost Predictor project! 💉💰
