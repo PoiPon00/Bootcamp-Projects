@@ -11,12 +11,6 @@ Welcome to the Cat vs Dog Image Classifier project! This project aim was to buil
 - 🏆 **Application Goal**: Imlementing systems to help search for lost pets by narrowig down search results. 
 - 💻 **Technologies used**: TensorFlow, Keras, Model Fine-Tuning, DenseNet121, InceptionV3, Image Augmentation, Mercury.
 
-## **Project Overview:**
-
-- 📊 **Datasets**: [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance).
-- 🏆 **Application Goal**: Determining health costs based on the insured person's physical characteristics. 
-- 💻 **Technologies used**: Pandas, MatplotLib, Seaborn, Linear and Polynomial Regression, Decision Tree, Radom Forest, Mercury.
-
 ## **How to use:**
 1. To view project application I recommend first installing [Mercury](https://runmercury.com/) framework.
    
