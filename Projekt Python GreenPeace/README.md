@@ -19,7 +19,7 @@ Welcome to the GreenPeace Targeted Countries Anticipation project! This Python-b
    
 2. Navigate to path "Projekt Python GreenPeace" from where you cloned the repository.
    
-3. Open .ipynb file to view Jupyter Notebook contaning renewable energy analysis.
+3. Open "EU_World_Electricity_Production.ipynb" file to view Jupyter Notebook contaning renewable energy analysis.
     
 
 ## **Contact**
