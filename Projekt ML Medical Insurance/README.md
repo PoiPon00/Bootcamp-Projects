@@ -10,7 +10,7 @@ helping individuals and insurance providers make informed decisions.
 
 - 📊 **Datasets**: [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance).
 - 🏆 **Application Goal**: Determining health costs based on the insured person's physical characteristics. 
-- 💻 **Technologies used**: Pandas, MatplotLib, Seaborn, Linear and Polynomial Regression, Decision Tree, Radom Forest, Mercury.
+- 💻 **Technologies used**: Pandas, MatPlotLib, Seaborn, Linear and Polynomial Regression, Decision Tree, Radom Forest, Mercury.
 
 ## **How to use:**
 1. To view project application I recommend first installing [Mercury](https://runmercury.com/) framework.
