@@ -28,4 +28,4 @@ Welcome to the GreenPeace Targeted Countries Anticipation project! This Python-b
 
 Other Team Members GitHub Profiles: <br> [Szymon Cyranowicz](https://github.com/szymoncyranowicz)<br>[Łukasz Sielicki](https://github.com/2023SIL)
 
-Thanks for exploring the Medical Insurance Cost Predictor project! 💉💰
+Thanks for exploring the GreenPeace Targeted Countries Anticipation project! 🌍🌱
