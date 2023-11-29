@@ -19,7 +19,7 @@ helping individuals and insurance providers make informed decisions.
 
        git clone git@github.com:PoiPon00/bootcamp-projects.git
    
-3. From where you cloned the repository navigate to path "Projekt ML Medical Insurance/mercury" in Anaconda Prompt.
+3. Navigate to path "Projekt DL Cats vs Dogs/mercury" in Anaconda Prompt from where you cloned the repository.
    
 4. Start Mercury by runing this command in Anaconda Prompt.
    
