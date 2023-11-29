@@ -11,7 +11,7 @@ Welcome to the Cat vs Dog Image Classifier project! This project aim was to buil
 - 🏆 **Application Goal**: Imlementing systems to help search for lost pets by narrowig down search results. 
 - 💻 **Technologies used**: TensorFlow, Keras, Model Fine-Tuning, DenseNet121, InceptionV3, Image Augmentation, Mercury.
 
-## **How to use:**
+## **How to Use:**
 1. To view project application I recommend first installing [Mercury](https://runmercury.com/) framework.
    
 2. Clone this repository to your local machine.
