@@ -32,7 +32,7 @@ Welcome to my Data Science Bootcamp Projects repository! Here, you'll find a col
 
 1. Clone this repository to your local machine.
 
-       git clone https://github.com/yourusername/bootcamp-projects.git
+       git clone git@github.com:PoiPon00/bootcamp-projects.git
 
 2. Navigate to the specific project folder you are interested in.
 
