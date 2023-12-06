@@ -7,7 +7,7 @@ Welcome to my Data Science Bootcamp Projects repository! Here, you'll find a col
 ### 1. [Project SQL](https://github.com/PoiPon00/bootcamp-projects/tree/main/Projekt%20SQL%20NBA): **Comparasion of physical characteristics of NBA players** 🏀
 
 - Examining trends in the career development of basketball players in relation to their physical characteristics and place of birth.
-- 💻**Technologies used**: PostgreSQL, Tableau.
+- 💻**Technologies used**: DBeaver, PostgreSQL, Tableau.
 - ⭐**Highlights**: Taller and heavier players score much more rebounds. 
 
 ### 2. [Project Python](https://github.com/PoiPon00/bootcamp-projects/tree/main/Projekt%20Python%20GreenPeace): **Anticipating countires targeted by GreenPeace** 🌳
