@@ -1,20 +1,33 @@
-## PROJEKT SQL
+#  **Comparasion of physical characteristics of NBA players** 🏀
 
-# Opis plików:
-- [NBA_wstepna_analiza.sql](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/NBA_wstepna_analiza.sql) - podstawowe zapytania w SQL do wglądu danych zbioru all_seasons
-- [all_seasons_hollinger.csv](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/all_seasons_hollinger.csv) - połączone wszystkie kolumny z tabeli [all_seasons.csv](https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271) i tabeli [hollingersStats.csv](https://www.kaggle.com/datasets/hultm28/nba-player-hollingers-stats)
-- [all_tables_nba.csv](https://github.com/infoshareacademy/jdszr13-python_dynamites/blob/Gabi/all_tables_nba.csv) - połączona tabela all_seasons_hollinger.csv z wybranymi kolumnami z tabeli [draft_combine_stats.csv](https://www.kaggle.com/datasets/wyattowalsh/basketball). Zawarte kolumny to:
-  - position,
-  - wingspan,
-  - standing_reach,
-  - body_fat_pct,
-  - hand_width,
-  - hand_length,
-  - standing_vertical_leap,
-  - max_vertical_leap,
-  - lane_agility_time,
-  - three_quarter_sprint,
-  - bench_press
+Welcome to the NBA Players Physical Characteristics Analysis project! This repository contains an exploration of the physical attributes of NBA players using SQL for data manipulation and Tableau for visualization.
 
-# Tableau
-W ramach analizy i nauki programu Tableau stworzyłam proste wykresy ilustrujące różne zależności naszych danych. Zamieszczone są na [Moim Profilu](https://public.tableau.com/app/profile/gabriela.piwar) w Tableau Public.
+🌱 My contribtion consisted of cleaning data and analysing players based on the amount of points scored from rebounds. 🌱
+
+## **Project Overview:**
+
+- 📊 **Datasets**: [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271) + [NBA Player Hollinger's Stats](https://www.kaggle.com/datasets/hultm28/nba-player-hollingers-stats) (Only certain columns were selected).
+- 🏆 **Main Goal**: Examining trends in the career development of basketball players in relation to their physical characteristics and place of birth.
+- 💻 **Technologies used**: DBeaver, PostgreSQL, Tableau.
+
+
+## **How to use:**
+   
+1. Clone this repository to your local machine.
+
+       git clone git@github.com:PoiPon00/bootcamp-projects.git
+   
+2. Navigate to path "Projekt SQL NBA" from where you cloned the repository.
+   
+3. Open "NBA_Simple_EDA.sql" file to view SQL script contaning simple SQL queries for dataset analysis.
+
+4. To view an interactive Dashboard in Tableau visit [Rebounds Analysis](https://public.tableau.com/app/profile/gabriela.piwar/viz/Reboundsanalisys/ReboundsAnalysis)
+    
+
+## **Contact**
+📧 Email: piwargabriela@gmail.com <br>
+🔗 LinkedIn: [LinkedIn/Gabriela-Piwar](https://www.linkedin.com/in/gabriela-piwar)
+
+Other Team Members GitHub Profiles: <br> [Szymon Cyranowicz](https://github.com/szymoncyranowicz)<br>[Łukasz Sielicki](https://github.com/2023SIL) <br> [Katarzyna Figiel](https://github.com/kasiafigiel)
+
+Thanks for exploring the NBA Players Physical Characteristics Analysis project! 🏀💪
