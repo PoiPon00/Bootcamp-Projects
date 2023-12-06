@@ -6,7 +6,7 @@ Welcome to the NBA Players Physical Characteristics Analysis project! This repos
 
 ## **Project Overview:**
 
-- 📊 **Datasets**: [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271) + [NBA Player Hollinger's Stats](https://www.kaggle.com/datasets/hultm28/nba-player-hollingers-stats) (Only certain columns were selected).
+- 📊 **Datasets**: [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271) + [NBA Player Hollinger's Stats](https://www.kaggle.com/datasets/hultm28/nba-player-hollingers-stats) (only certain columns were selected).
 - 🏆 **Main Goal**: Examining trends in the career development of basketball players in relation to their physical characteristics and place of birth.
 - 💻 **Technologies used**: DBeaver, PostgreSQL, Tableau.
 
@@ -21,7 +21,7 @@ Welcome to the NBA Players Physical Characteristics Analysis project! This repos
    
 3. Open "NBA_Simple_EDA.sql" file to view SQL script contaning simple SQL queries for dataset analysis.
 
-4. To view an interactive Dashboard in Tableau visit [Rebounds Analysis](https://public.tableau.com/app/profile/gabriela.piwar/viz/Reboundsanalisys/ReboundsAnalysis)
+4. To view an interactive Dashboard in Tableau visit [Rebounds Analysis](https://public.tableau.com/app/profile/gabriela.piwar/viz/Reboundsanalisys/ReboundsAnalysis).
     
 
 ## **Contact**
